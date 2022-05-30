@@ -120,7 +120,7 @@ footer {
 }
 .glav{
     color:white;
-    padding-left: 310px;
+    padding-left: 610px;
 }
 .num{
     position:fixed;
@@ -129,9 +129,7 @@ footer {
     left: 840px;
     top: 340px;
 }
-.glav{
-    text-align: center;
-}
+
 .post-img{
     width:400px ;
     height: 250px;
